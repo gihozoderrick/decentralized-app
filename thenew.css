@@ -1,0 +1,172 @@
+
+.body{
+    width: 100%;
+}
+
+.tab{
+    display: flex;
+    justify-content: space-between;
+}
+.first-buttons{
+    display: flex;
+
+}
+.second-buttons{
+    display: flex;
+}
+.buttons{
+    margin: 0 15px 0 0;
+    color: grey;
+    font-size: 15px;
+    font-style: normal;
+    font-family: sans-serif;
+}
+.buttons:hover{
+    color: black;
+}
+.advertisement{
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+    width: 100%;
+    height: 50px;
+    background-image: linear-gradient(90deg,black,rgb(100, 100, 228),black);
+    
+}
+
+.text{
+    margin-top: 11px;
+    margin-bottom: 11px;
+    font-family: sans-serif;
+    font-weight: 30px;
+    color: white;
+    
+}
+.btn{
+    margin: 10px 20px;
+    padding: 5px 10px;
+    font-weight: 20px;
+}
+
+.titles{
+    display: flex;
+    margin: 20px;
+}
+.subtitles{
+    margin-left: 20px;
+    color: grey;
+    font-family: sans-serif;
+    font-weight: 13px;
+}
+.subtitles:hover{
+    color: black;
+}
+.first-pic{
+    background-image: url(images/AI.JPG);
+    color: white;
+    font-size: 20px;
+    font-family: sans-serif;
+    font-weight: bold;
+    text-align: start;
+    
+}
+.paragraph{
+    padding: 20px 30px 10px 30px;
+
+
+    
+}
+.story1{
+    text-shadow: 2px 2px 2px black;
+    padding: 5px 10px;
+    margin-bottom: 10px;
+}
+.second-pic{
+    background-image: url(images/CAR.JPG);
+    color: white;
+    font-size: 20px;
+    font-family: sans-serif;
+    font-weight: 700;
+    text-align: start;
+}
+.third-pic{
+    background-image: url(images/Hand.jpg);
+    color: white;
+    font-size: 20px;
+    font-family: sans-serif;
+    font-weight: bold;
+    text-align: start;
+}
+.fourth-pic{
+    background-image: url(images/cinema.jpg);
+    color: white;
+    font-size: 20px;
+    font-family: sans-serif;
+    font-weight: 800;
+    text-align: start;
+    padding: 10px 30px 10px 30px;
+
+}
+.fifth-pic{
+    background-image:url(images/proteins.jpg);
+    color: white;
+    font-size: 20px;
+    font-family: sans-serif;
+    font-weight: bold;
+    text-align: start;
+    padding: 30px;
+
+}
+.take{
+    border: 1px solid white;
+    border-radius: 30px;
+    padding: 3px 20px;
+
+}
+img{
+    width: 250px;
+    height: 150px;
+}
+.article{
+    width: 320px;
+    height: 169px;
+    margin: 30px 15px;
+}
+.first-articles{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 20px;
+    margin-bottom: 30px;
+
+}
+.second-articles{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 20px;
+    margin-top: 50px;
+    margin-bottom: 100px;
+}
+.intel{
+    color: black;
+    font-family: sans-serif;
+    font-weight: 700;
+    font-size: 15px;
+
+}
+.btn-latest{
+    padding: 10px 20px;
+    font-size: 18px;
+    font-family: sans-serif;
+    font-weight: 700;
+    color: white;
+    border: 2px solid white;
+    border-radius: 30px;
+    background-color: rgb(84, 84, 225);
+    display: block;
+    margin: 100px auto 120px auto;
+
+}
+
+.latest-header{
+    margin-left: 25px;
+}
